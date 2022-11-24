@@ -10,11 +10,11 @@
 
 ➜ [Facebook](https://www.facebook.com/MJoelVR18/)
 
-➜ Instagram
+➜ [Instagram](https://www.instagram.com/joel_vr19/)
 
-➜ WhatsApp
+➜ [WhatsApp](https://wa.me/+50662166960)
 
-➜ Linkedin
+➜ [Linkedin](https://www.linkedin.com/in/joelvr/)
 
 ---
 
