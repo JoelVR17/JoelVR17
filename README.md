@@ -15,21 +15,21 @@
 <div align="center">
     <h3>Languages and Tools</h3>
     <div>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="iconTech" width="50" height="50">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="iconTech" width="50" height="50">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="iconTech" width="50" height="50">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/drupal/drupal-original.svg" alt="iconTech" width="50" height="50">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="iconTech" width="50" height="50">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="iconTech" width="50" height="50">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="iconTech" width="50" height="50">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" alt="iconTech" width="50" height="50">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="iconTech" width="50" height="50">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="iconTech" width="50" height="50">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="iconTech" width="50" height="50">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" alt="iconTech" width="50" height="50">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" alt="iconTech" width="50" height="50">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="iconTech" width="50" height="50">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" alt="iconTech" width="50" height="50">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" alt="iconTech" width="50" height="50">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="iconTech" width="50" height="50">&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="iconTech" width="50" height="50">&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="iconTech" width="50" height="50">&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/drupal/drupal-original.svg" alt="iconTech" width="50" height="50">&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="iconTech" width="50" height="50">&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="iconTech" width="50" height="50">&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="iconTech" width="50" height="50">&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" alt="iconTech" width="50" height="50">&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="iconTech" width="50" height="50">&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="iconTech" width="50" height="50">&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="iconTech" width="50" height="50">&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" alt="iconTech" width="50" height="50">&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" alt="iconTech" width="50" height="50">&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="iconTech" width="50" height="50">&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" alt="iconTech" width="50" height="50">&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" alt="iconTech" width="50" height="50">&nbsp;
     </div>
 </div>
