@@ -8,8 +8,25 @@
 
 ### About Me 💻
 
-- Web Developer
-- 19 Years Old
+➜ Web Developer
+➜ 19 Years Old
+➜ Systems Engineer
+
+---
+
+### Skills 💻
+
+➜ Leardership
+
+➜ Transferable Skills
+
+➜ Adaptability
+
+➜ Interpersonal Intelligence
+
+➜ Creativity
+
+➜ English +B1
 
 ---
 <div align="center">
@@ -30,7 +47,6 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" alt="iconTech" width="50" height="50">&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="iconTech" width="50" height="50">&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" alt="iconTech" width="50" height="50">&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" alt="iconTech" width="50" height="50">&nbsp;
     </div>
 </div>
 
