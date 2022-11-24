@@ -10,3 +10,11 @@
 
 - Web Developer
 - 19 Years Old
+
+---
+<div align="center">
+    <h3>Languages and Tools</h3>
+    <div>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="">
+    </div>
+</div>
