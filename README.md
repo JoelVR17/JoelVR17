@@ -35,7 +35,7 @@
 </div>
 
 ---
-### My Stats ➕🟰✖️
+### My Stats 💻
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=JoelVR17&theme=merko&hide_border=true&border_radius=5&date_format=n%2Fj%5B%2FY%5D)](https://git.io/streak-stats)
 
