@@ -39,7 +39,7 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=JoelVR17&theme=merko&hide_border=true&border_radius=5&date_format=n%2Fj%5B%2FY%5D)](https://git.io/streak-stats)
 
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JoelVR17&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
