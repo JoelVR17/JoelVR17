@@ -8,7 +8,7 @@
 
 <h3>Contact  📱</h3>
 
-➜ Facebook (https://www.pngwing.com/es/free-png-bmozj)[https://www.facebook.com/MJoelVR18/]
+➜ (Facebook)[https://www.facebook.com/MJoelVR18/]
 
 ➜ Instagram
 
