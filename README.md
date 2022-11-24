@@ -6,7 +6,7 @@
 
 ---
 
-### About Me 💻
+<h3>About Me</h3>
 
 ➜ Web Developer
 
@@ -16,7 +16,7 @@
 
 ---
 
-### Skills 💻
+<h3>Skills</h3>
 
 ➜ Leardership
 
