@@ -9,7 +9,9 @@
 ### About Me 💻
 
 ➜ Web Developer
+
 ➜ 19 Years Old
+
 ➜ Systems Engineer
 
 ---
@@ -52,8 +54,6 @@
 
 ---
 ### My Stats 💻
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=JoelVR17&theme=merko&hide_border=true&border_radius=5&date_format=n%2Fj%5B%2FY%5D)](https://git.io/streak-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoelVR17&show_icons=true&theme=dark)
 
