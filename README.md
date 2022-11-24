@@ -6,9 +6,7 @@
 
 ---
 
-<div align="center">
-    <h3>About Me</h3>
-</div>
+<h3>About Me  👤</h3>
 
 ➜ Web Developer
 
@@ -17,9 +15,8 @@
 ➜ Systems Engineer
 
 ---
-<div align="center">
-    <h3>Skills</h3>
-</div>
+
+<h3>Skills  💻</h3>
 
 ➜ Leardership
 
@@ -56,7 +53,7 @@
 </div>
 
 ---
-### My Stats 💻
+<h3>Stats  🧮</h3>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoelVR17&langs_count=8)](https://github.com/anuraghazra/github-readme-stats) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoelVR17&show_icons=true&theme=dark)
 
