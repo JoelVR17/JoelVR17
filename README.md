@@ -6,7 +6,9 @@
 
 ---
 
-<h3>About Me</h3>
+<div align="center">
+    <h3>About Me</h3>
+</div>
 
 ➜ Web Developer
 
@@ -15,8 +17,9 @@
 ➜ Systems Engineer
 
 ---
-
-<h3>Skills</h3>
+<div align="center">
+    <h3>Skills</h3>
+</div>
 
 ➜ Leardership
 
