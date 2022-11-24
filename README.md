@@ -20,11 +20,13 @@
 
 <h3>About Me  👤</h3>
 
-➜ Web Developer
+➜ Web Developer 
 
 ➜ 19 Years Old
 
-➜ Systems Engineer
+➜ Software Engineer
+
+➜ Programming Lover
 
 ---
 
