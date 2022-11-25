@@ -6,7 +6,7 @@
 
 ---
 
-<h3>Contact  📱</h3>
+<h3>Contact Me 📱</h3>
 
 ➜ [Facebook](https://www.facebook.com/MJoelVR18/)
 
@@ -30,7 +30,7 @@
 
 ---
 
-<h3>Skills  💻</h3>
+<h3>My Skills  💻</h3>
 
 ➜ Leardership
 
