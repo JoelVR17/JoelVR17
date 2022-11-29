@@ -46,7 +46,7 @@
 
 ---
 
-<h3>Best Sites Frontend 💯</h3>
+<h3>Best Sites - Frontend 💯</h3>
 
 ➜ [Juego Banderas](https://juegobanderasjvr19.netlify.app/)
 
