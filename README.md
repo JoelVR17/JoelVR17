@@ -17,6 +17,7 @@
 ➜ [Linkedin](https://www.linkedin.com/in/joelvr/)
 
 ---
+
 <div align="center">
     <h3>Languages and Tools</h3>
     <div>
@@ -37,6 +38,7 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" alt="iconTech" width="50" height="50">&nbsp;
     </div>
 </div>
+
 ---
 
 <h3>About Me  👤</h3>
@@ -86,8 +88,3 @@
 ➜ [Pokedex](https://pokedexjoel.netlify.app/index.html)
 
 ---
-<h3>Stats  🧮</h3>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoelVR17&langs_count=8)](https://github.com/anuraghazra/github-readme-stats) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoelVR17&show_icons=true&theme=dark)
-
-
