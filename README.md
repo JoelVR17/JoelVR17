@@ -37,6 +37,7 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="iconTech" width="50" height="50">&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" alt="iconTech" width="50" height="50">&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="iconTech" width="50" height="50">&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" alt="iconTech" width="50" height="50">&nbsp;
     </div>
 </div>
 
