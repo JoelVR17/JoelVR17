@@ -71,6 +71,10 @@
 
 ➜ English +B1
 
+➜ Fellowhip
+
+➜ High Resolution Capacity
+
 ---
 
 <h3>Best Sites - Frontend 💯</h3>
