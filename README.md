@@ -96,3 +96,11 @@
 ➜ [Pokedex](https://pokedexjoel.netlify.app/index.html)
 
 ---
+
+---
+
+<h3>Stats 🧮</h3>
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JoelVR17&theme=transparent&hide_border=true&border_radius=4.3&exclude_days=Sun)](https://git.io/streak-stats)
+
+---
