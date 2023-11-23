@@ -40,6 +40,7 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" alt="iconTech" width="50" height="50">&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" alt="iconTech" width="50" height="50">&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="iconTech" width="50" height="50">&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" alt="iconTech" width="50" height="50">&nbsp;
     </div>
 </div>
 
@@ -105,6 +106,3 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoelVR17&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 ---
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=JoelVR17&label=Profile%20Views&style=flat-square&color=blueviolet" alt="JoelVR17" />
-</p>
