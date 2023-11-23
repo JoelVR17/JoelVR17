@@ -105,3 +105,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoelVR17&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 ---
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=JoelVR17&label=Profile%20Views&style=flat-square&color=blueviolet" alt="JoelVR17" />
+</p>
