@@ -80,19 +80,13 @@
 
 <h3>Best Sites - Frontend 💯</h3>
 
-➜ [Conversor Criptomonedas](https://convertidor-criptomonedas2022.netlify.app/)
+➜ [Cryptocurrency Converter](https://convertidor-criptomonedas2022.netlify.app/)
 
-➜ [Juego Banderas](https://juegobanderasjvr19.netlify.app/)
+➜ [Veterinary Appointments](https://veterinaria-pacientes2022.netlify.app/)
 
-➜ [Portafolio Personal](https://portafoliojoel.netlify.app/)
+➜ [Expense Control](https://control-de-gastos2022.netlify.app/)
 
-➜ [Citas Veterinaria](https://veterinaria-pacientes2022.netlify.app/)
-
-➜ [Bienes Raíces](https://bienesraicespruebajoel.netlify.app/)
-
-➜ [Control de Gastos](https://control-de-gastos2022.netlify.app/)
-
-➜ [Dibujo en Linea](https://dibujosenlinea.netlify.app/)
+➜ [Line Drawing](https://dibujosenlinea.netlify.app/)
 
 ➜ [Pokedex](https://pokedexjoel.netlify.app/index.html)
 
