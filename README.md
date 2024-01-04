@@ -1,7 +1,7 @@
 <div id="header" align="center">
     <img src="https://media.giphy.com/media/KGhpQ5NMoWKQurlHwI/giphy.gif" width="200" />
     <h1 align="center">Hi👋🏼, I'm Joel Vargas</h1>
-    <h3 align="center">Providing The best project experience
+    <h3 align="center">Providing The best project experience.
  A passionate Full Stack Software Engineer dedicated to delivering exceptional project experiences.        If you need a programmer, feel free to contact me using any of the options listed below!</h3>
 </div>
 
