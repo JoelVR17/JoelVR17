@@ -1,7 +1,8 @@
 <div id="header" align="center">
     <img src="https://media.giphy.com/media/KGhpQ5NMoWKQurlHwI/giphy.gif" width="200" />
     <h1 align="center">Hi👋🏼, I'm Joel Vargas</h1>
-    <h3 align="center">Since I was a kid I've been involved with programming, but recently I've become more interested in Web Development, specifically in Frontend.        If you need a programmer, feel free to contact me using any of the options listed below!</h3>
+    <h3 align="center">Providing The best project experience
+ A passionate Full Stack Software Engineer dedicated to delivering exceptional project experiences.        If you need a programmer, feel free to contact me using any of the options listed below!</h3>
 </div>
 
 ---
@@ -50,7 +51,7 @@
 
 ➜ Web Developer 
 
-➜ 19 Years Old
+➜ 20 Years Old
 
 ➜ Software Engineer
 
