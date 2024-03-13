@@ -41,7 +41,7 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" alt="iconTech" width="50" height="50">&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" alt="iconTech" width="50" height="50">&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="iconTech" width="50" height="50">&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/vue/vue-original-wordmark.svg" alt="iconTech" width="50" height="50">&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg" alt="iconTech" width="50" height="50">&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" alt="iconTech" width="50" height="50">&nbsp;
     </div>
 </div>
