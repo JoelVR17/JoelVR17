@@ -81,22 +81,6 @@
 
 ---
 
-<h3>Best Sites - Frontend 💯</h3>
-
-➜ [Cryptocurrency Converter](https://convertidor-criptomonedas2022.netlify.app/)
-
-➜ [Veterinary Appointments](https://veterinaria-pacientes2022.netlify.app/)
-
-➜ [Expense Control](https://control-de-gastos2022.netlify.app/)
-
-➜ [Line Drawing](https://dibujosenlinea.netlify.app/)
-
-➜ [Pokedex](https://pokedexjoel.netlify.app/index.html)
-
----
-
----
-
 <h3>Stats 🧮</h3>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JoelVR17&theme=transparent&hide_border=true&border_radius=4.3&exclude_days=Sun)](https://git.io/streak-stats)
