@@ -37,38 +37,6 @@
 
 ---
 
-<h3>About Me  👤</h3>
-
-➜ Web Developer 
-
-➜ 20 Years Old
-
-➜ Software Engineer
-
-➜ Programming Lover
-
----
-
-<h3>My Skills  💻</h3>
-
-➜ Leardership
-
-➜ Transferable Skills
-
-➜ Adaptability
-
-➜ Interpersonal Intelligence
-
-➜ Creativity
-
-➜ English +B1
-
-➜ Fellowhip
-
-➜ High Resolution Capacity
-
----
-
 <h3>Stats 🧮</h3>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JoelVR17&theme=transparent&hide_border=true&border_radius=4.3&exclude_days=Sun)](https://git.io/streak-stats)
