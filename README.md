@@ -7,18 +7,6 @@
 
 ---
 
-<h3>Contact Me 📱</h3>
-
-➜ [Facebook](https://www.facebook.com/MJoelVR18/)
-
-➜ [Instagram](https://www.instagram.com/joel_vr19/)
-
-➜ [WhatsApp](https://wa.me/+50662166960)
-
-➜ [Linkedin](https://www.linkedin.com/in/joelvr/)
-
----
-
 <div align="center">
     <h3>Languages and Tools</h3>
     <div>
