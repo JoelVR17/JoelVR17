@@ -44,4 +44,7 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JoelVR17&theme=transparent&hide_border=true&border_radius=4.3&exclude_days=Sun)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoelVR17&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JoelVR17)](https://github.com/anuraghazra/github-readme-stats)
+
 ---
