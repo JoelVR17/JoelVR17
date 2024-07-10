@@ -45,6 +45,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoelVR17&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JoelVR17)](https://github.com/anuraghazra/github-readme-stats)
-
 ---
