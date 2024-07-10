@@ -39,7 +39,7 @@
 
 <h3>Stats 🧮</h3>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoelVR17&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoelVR17&show_icons=true&theme=onedark)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JoelVR17&theme=transparent&hide_border=true&border_radius=4.3&exclude_days=Sun)](https://git.io/streak-stats)
 
