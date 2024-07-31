@@ -1,5 +1,5 @@
 <div id="header" align="center">
-    <img src="https://giphy.com/gifs/thecodingspacerd-code-coder-lets-HscDLzkO8EOTmgkhQP" width="200" />
+    <img src="https://i.giphy.com/HscDLzkO8EOTmgkhQP.webp" width="200" />
     <h1 align="center">Hi👋🏼, I'm Joel Vargas</h1>
     <h3 align="center">Providing The best project experience.
  A passionate Full Stack Software Engineer dedicated to delivering exceptional project experiences.        If you need a programmer, feel free to contact me using any of the options listed below!</h3>
