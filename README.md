@@ -1,55 +1,20 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<div id="header" align="center">
-    <img src="https://i.giphy.com/HscDLzkO8EOTmgkhQP.webp" width="200" />
-    <h1 align="center">Hi👋🏼, I'm Joel Vargas</h1>
-    <h3 align="center">Providing The best project experience.
- A passionate Full Stack Software Engineer dedicated to delivering exceptional project experiences.        If you need a programmer, feel free to contact me using any of the options listed below!</h3>
-</div>
-
----
+# 💫 About Me:
+🔭 I’m currently working on Web3 Projects<br>🌱 I’m currently learning about Rust and more!<br>💬 Ask me about new technologies<br>🎸 I love to play the bass
+<br><br> [![](https://visitcount.itsvg.in/api?id=JoelVR17&icon=10&color=4)](https://visitcount.itsvg.in)
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/brolag) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/brolag) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/brolag) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/joel_vr20/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/joelvr/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/joel20vargas) 
 
----
+# 💻 Tech Stack:
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=JoelVR17&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=JoelVR17&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=JoelVR17&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<div align="center">
-    <h3>Languages and Tools</h3>
-    <div>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="iconTech" width="50" height="50">&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="iconTech" width="50" height="50">&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="iconTech" width="50" height="50">&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/drupal/drupal-original.svg" alt="iconTech" width="50" height="50">&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="iconTech" width="50" height="50">&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="iconTech" width="50" height="50">&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="iconTech" width="50" height="50">&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" alt="iconTech" width="50" height="50">&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="iconTech" width="50" height="50">&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="iconTech" width="50" height="50">&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="iconTech" width="50" height="50">&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" alt="iconTech" width="50" height="50">&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" alt="iconTech" width="50" height="50">&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="iconTech" width="50" height="50">&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" alt="iconTech" width="50" height="50">&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="iconTech" width="50" height="50">&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" alt="iconTech" width="50" height="50">&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" alt="iconTech" width="50" height="50">&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="iconTech" width="50" height="50">&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg" alt="iconTech" width="50" height="50">&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" alt="iconTech" width="50" height="50">&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original-wordmark.svg" alt="iconTech" width="50" height="50">&nbsp;
-    </div>
-</div>
-
----
-
-<h3>Stats 🧮</h3>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoelVR17&show_icons=true&theme=onedark)
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JoelVR17&theme=transparent&hide_border=true&border_radius=4.3&exclude_days=Sun)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoelVR17&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
