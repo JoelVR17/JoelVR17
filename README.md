@@ -1,7 +1,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 # 💫 About Me:
-🔭 I’m currently working on Web3 Projects<br>🌱 I’m currently learning about Rust and more!<br>💬 Ask me about new technologies<br>🎸 I love to play the bass
+🔭 I’m currently working on Web3 Projects<br>🌱 I’m currently learning about Rust and more!<br>💬 Ask me about new technologies<br>🎸 I love playing the bass
 <br><br> [![](https://visitcount.itsvg.in/api?id=JoelVR17&icon=10&color=4)](https://visitcount.itsvg.in)
 
 ## 🌐 Socials:
