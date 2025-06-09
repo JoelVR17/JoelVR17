@@ -1,8 +1,7 @@
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-# 💫 About Me:
-🔭 I’m currently working on Web3 Projects<br>🌱 I’m currently learning about Rust and more!<br>💬 Ask me about new technologies<br>🎸 I love playing the bass
-<br><br> [![](https://visitcount.itsvg.in/api?id=JoelVR17&icon=10&color=4)](https://visitcount.itsvg.in)
+![1732431609472](https://github.com/user-attachments/assets/1abd505a-2b23-4fc9-820d-523c62acd875)
+
+<h1 align="center">Joel Vargas | Cofounder and Fullstack Developer</h1>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/joel_vr20/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joelvr/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/joel20vargas)
