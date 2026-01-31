@@ -1,5 +1,7 @@
 
 ![1732431609472](https://github.com/user-attachments/assets/1abd505a-2b23-4fc9-820d-523c62acd875)
+<img width="1500" height="500" alt="Group 4" src="https://github.com/user-attachments/assets/b4f4a8af-043e-4108-8482-f65a8a948577" />
+
 
 <h1 align="center">Joel Vargas | Founder and Fullstack Developer</h1>
 
